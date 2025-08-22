@@ -74,6 +74,3 @@ It integrates a simple **health assistant interface** to guide users, making med
 
 Developed by **[Anusri Chundru](https://github.com/Anusri-26)**
 
-
-Do you want me to also create a **`requirements.txt`** file for you (so anyone can run it instantly)?
-```
